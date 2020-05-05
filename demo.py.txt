@@ -1,0 +1,7 @@
+class A:
+	print("git hub code")
+	def B():
+		print("git hub method")
+
+b=A()
+b.B()
